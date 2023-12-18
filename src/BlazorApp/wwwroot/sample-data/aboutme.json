@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "Welcome to my digital space, where passion meets precision and innovation intertwines with code. I am Md. Mamun, a .NET developer with over six years of dedicated experience in crafting seamless web applications and APIs. My journey in the ever-evolving realm of technology has not just been a career but a relentless pursuit of excellence.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Asp.Net MVC Core",
+    "C#",
+    "HTML, CSS, JavaScript, jQuery, Bootstrap",
+    "MS SQL Server",
+    "Git",
+    "Agile/Scrum Methodologies"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "As a dedicated Microsoft .NET developer, I am driven by a relentless pursuit of innovative solutions to complex challenges. My passion lies in the art of programming, where every line of code is a testament to my commitment to excellence. With expertise in Asp.Net MVC, C#, and a mastery of web technologies, I navigate the digital landscape to craft robust and efficient web applications and APIs. Beyond the syntax, I bring a profound understanding of database optimization, source control, and agile methodologies. My goal is not just to solve problems but to pave the way for a future where technology is a powerful, accessible force for all."
 }
